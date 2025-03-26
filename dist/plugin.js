@@ -232,8 +232,6 @@ var capacitorFreerasp = (function (exports, core) {
     exports.setThreatListeners = setThreatListeners;
     exports.startFreeRASP = startFreeRASP;
 
-    Object.defineProperty(exports, '__esModule', { value: true });
-
     return exports;
 
 })({}, capacitorExports);
